@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Satyam Thakur
-- 👀 I’m interested in programming Specialy Web D.
+- 👀 I’m interested in programming especially Web D.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 📫 You can reach me through mail(kumarsatyam04.2000@gmail.com)
